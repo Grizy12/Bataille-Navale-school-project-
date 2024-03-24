@@ -1,0 +1,35 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {section}{\numberline {2}MVC}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}But du projet en MVC}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Comment fonctionne le MVC}{3}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Modele}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Plan du modele}{3}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}AbstractJoueur}{4}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Creation des 2 instances Joueurs}{4}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}BattleShip}{4}{subsubsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.2}Bateau et Coordonner}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Implementation du MVC depuis le modele}{5}{subsubsection.3.2.1}%
+\contentsline {section}{\numberline {4}Vue}{5}{section.4}%
+\contentsline {subsection}{\numberline {4.1}L'implementation du Mvc depuis la Vue}{5}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Jframe}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Jpanel}{6}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Le PaintComponent}{7}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Afficher les bateaux alliés}{7}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Les Coups executés}{7}{subsubsection.4.3.3}%
+\contentsline {subsubsection}{\numberline {4.3.4}L'action Listener de la souris}{7}{subsubsection.4.3.4}%
+\contentsline {section}{\numberline {5}Controleur}{8}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Orchestrator}{8}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}getJouer()}{8}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}play(int affichage)}{8}{subsubsection.5.1.2}%
+\contentsline {paragraph}{Partie Graphique}{8}{section*.2}%
+\contentsline {paragraph}{Partie dans le terminal}{8}{section*.3}%
+\contentsline {subsection}{\numberline {5.2}Le Main}{9}{subsection.5.2}%
+\contentsline {paragraph}{}{9}{section*.4}%
+\contentsline {subparagraph}{Le choix de l'affichage:}{9}{section*.5}%
+\contentsline {subparagraph}{Le choix du nom:}{9}{section*.6}%
+\contentsline {subparagraph}{Le lancement de la partie:}{9}{section*.7}%
+\contentsline {paragraph}{}{9}{section*.8}%
+\contentsline {subsection}{\numberline {5.3}L'implementation du Mvc depuis le contrôleur}{9}{subsection.5.3}%
+\contentsline {section}{\numberline {6}Les Tests}{9}{section.6}%
+\contentsline {section}{\numberline {7}Conclusion}{10}{section.7}%

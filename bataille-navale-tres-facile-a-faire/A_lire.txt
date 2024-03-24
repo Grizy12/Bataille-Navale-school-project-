@@ -1,0 +1,12 @@
+Faite dans ce repertoire : "./lancement.sh"
+
+PROBLEME DU 10 REGLé
+PROBLÈME BATEAU REGLÉ
+Sur l'affichage graphique les numeros et les chiffres ne sont pas parfaitement centrée ca doit pas etre dur à regler
+*FAIT* - la vision entre les deux joueurs sur l'interface graphique n'est pas le resultat demandé sur le tp (on voit la vue de l'ennemie) donc à regler 
+Faut implementer les bateaux au debut automatiquement 
+Faut ajouter l'Ia random 
+*FAIT* -Faut faire le contour des bateaux quand il coule ou quand il s'agit des notres (je vais m'en occuper soon)
+Rajouter une pop up qui dit que c'est fini (je peux le faire si vous voulez)
+
+
